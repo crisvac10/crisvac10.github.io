@@ -12,7 +12,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Minimal Astro.js theme',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
-        src: '/dante-perfil.jpg',
+        src: '/dante-Perfil.jpeg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
