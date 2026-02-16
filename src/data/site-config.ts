@@ -1,5 +1,4 @@
-import avatar from '../assets/images/Perfil.jpeg';
-import hero from '../assets/images/video.mp4';
+import { default as avatar, default as hero } from '../assets/images/Perfil.jpeg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -71,12 +70,12 @@ const siteConfig: SiteConfig = {
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
-            
+
         },
         actions: [
             {
                 text: 'Get in Touch',
-                href: '/contact'
+                href: 'https://youtube.com/shorts/36tIuoRfHjA?si=gTEDx-EPYbt57Pjw'
             }
         ]
     },
