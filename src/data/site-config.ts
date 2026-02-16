@@ -29,7 +29,7 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
+            text: 'Evidence',
             href: '/tags'
         }
     ],
@@ -71,6 +71,7 @@ const siteConfig: SiteConfig = {
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
+            
         },
         actions: [
             {
