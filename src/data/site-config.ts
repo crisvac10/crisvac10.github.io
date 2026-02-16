@@ -1,5 +1,5 @@
-import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/hero.jpg';
+import avatar from '../assets/images/PErfil.jpeg';
+import hero from '../assets/images/Perfil.jpeg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
