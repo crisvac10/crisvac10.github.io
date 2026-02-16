@@ -74,7 +74,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Video',
                 href: 'https://youtube.com/shorts/36tIuoRfHjA?si=gTEDx-EPYbt57Pjw'
             }
         ]
